@@ -83,7 +83,7 @@ Open your browser and visit http://localhost:3000 to see the application in acti
 Contributions are welcome! If you have any improvements or suggestions, feel free to create a pull request or open an issue.
 
 ### License
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
 
 ### Acknowledgements
 A big thank you to [Bro Code](https://www.youtube.com/@BroCodez) for the amazing React course.
