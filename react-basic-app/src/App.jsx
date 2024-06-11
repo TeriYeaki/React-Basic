@@ -1,6 +1,6 @@
-import Header from './Header.jsx'
-import Footer from './Footer.jsx';
-import Food from './Food.jsx';
+import Header from './components/Header/Header.jsx'
+import Footer from './components/Footer/Footer.jsx';
+import Food from './components/Food/Food.jsx';
 
 function App() {
   return(
