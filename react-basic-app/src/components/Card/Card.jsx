@@ -1,3 +1,15 @@
+// Styling with External Style
+// ------------------------------------------
+// This is where we import the style from our external css style sheet
+// and pass over the styles to each specified class.
+// 
+// It is easy to use with simple project. However can lead to naming conflict,
+// especially working with large numbr of classes and components.
+// 
+// Use "import './location-of-stylesheet'"
+
+
+
 import './Card.css'
 import AvatarPic from '../../assets/images/SampleAvatar.png'
 
